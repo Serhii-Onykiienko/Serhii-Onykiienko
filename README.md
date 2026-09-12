@@ -38,7 +38,7 @@ I’m continuously improving my development skills and currently looking for an 
 
 ## 💻 Featured Projects
 
-### 📝 [NoteHub](https://github.com/Serhii-Onykiienko/08-zustand)
+### 📝 [NoteHub](https://github.com/Serhii-Onykiienko/notehub-nextjs)
 
 A note management application built with **Next.js and TypeScript**.
 
