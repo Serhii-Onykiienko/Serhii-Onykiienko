@@ -46,7 +46,7 @@ Features include note creation and deletion, filtering, search, pagination, dyna
 
 **Tech:** Next.js · React · TypeScript · TanStack Query · Zustand · REST API
 
-🔗 [Live Demo](https://08-zustand-teal-seven.vercel.app/)
+🔗 [Live Demo](https://notehub-serhii.vercel.app/)
 
 ---
 
