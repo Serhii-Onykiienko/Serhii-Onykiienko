@@ -50,7 +50,7 @@ Features include note creation and deletion, filtering, search, pagination, dyna
 
 ---
 
-### 🎬 [Movie Search](https://github.com/Serhii-Onykiienko/04-react-query)
+### 🎬 [Movie Search](https://github.com/Serhii-Onykiienko/movie-search-react)
 
 A movie search application powered by the TMDB API with asynchronous data fetching, pagination, loading states, error handling, and movie details.
 
