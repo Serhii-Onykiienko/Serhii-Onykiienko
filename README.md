@@ -52,7 +52,7 @@ Features include note creation and deletion, filtering, search, pagination, dyna
 
 ### 🎬 [Movie Search](https://github.com/Serhii-Onykiienko/04-react-query)
 
-A movie search application that works with an external movie API and provides asynchronous data fetching, pagination, loading states, error handling, and movie details.
+A movie search application powered by the TMDB API with asynchronous data fetching, pagination, loading states, error handling, and movie details.
 
 **Tech:** React · TypeScript · TanStack Query · REST API · Vite
 
